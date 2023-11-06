@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "The Rise of TypeScript"
+date:   2023-10-29 13:30:01 -0500
+categories: jekyll update
+---
+TypeScript builds upon JavaScript by adding extra features and it is gaining popularity. There are a few reasons that TypeScript is gaining popularity, one of the main reasons is strong typing. Strong typing allows you to specify the type of data a variable can hold. Many popular IDEs including VS Code also support TypeScript. The features these IDEs offer enhance your workflow with things like auto-completion. With strong typing, you can immediately see what type of data your code expects, making your code more readable. Based on these things the increased popularity of TypeScript is not surprising. It is a valuable addition to the web development community and worth taking the time to learn.
